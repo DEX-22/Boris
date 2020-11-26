@@ -1,0 +1,240 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital@1&display=swap');
+
+body{
+	background: url(Imagenes/Fondos/EstatuaLibertad2.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding-top: 80px !important;
+	font-family: 'Lato', sans-serif;
+}
+
+.container{
+	background-color: #37DB6544;
+	padding-bottom:20px;	
+}
+.Header{
+	padding-top: 10px;
+	background-color: #078F2E88;	
+}
+.Header > * {
+	color: #F3F3F3;
+}
+.Cuerpo{
+	padding-top: 10px;
+}
+.Cuerpo > .col-6 > p{
+	color: #37DB65;
+	font-size: 30px;
+}
+.Cuerpo > .col-4 > form {
+	padding-top: 5px;
+	padding-bottom: 10px;
+	border-radius: 10px;
+	background-color: #37DB6544;
+}
+.Test{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.Test > .col-8 > .btnTest{
+	background-color: #241222 !important;
+	color: #F5F5F5;
+}
+footer{
+	padding-left: 20px;
+	font-size: 10pt;
+}
+
+
+}
+@media only screen and (min-width: 600px){
+body{
+	background: url(Imagenes/Fondos/EstatuaLibertad2.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding-top: 30px !important;
+	font-family: 'Lato', sans-serif;
+}
+	.container{
+	background-color: #37DB6544;
+	padding-bottom:20px;	
+}
+.Header{
+	padding-top: 10px;
+	background-color: #078F2E88;	
+}
+.Header > * {
+	color: #F3F3F3;
+}
+.Cuerpo{
+	padding-top: 10px;
+}
+.Cuerpo > .col-6 > p{
+	color: #37DB65;
+	font-size: 30px;
+}
+.Cuerpo > .col-4 > form {
+	padding-top: 5px;
+	padding-bottom: 10px;
+	border-radius: 10px;
+	background-color: #37DB6544;
+}
+.Test{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.Test > .col-8 > .btnTest{
+	background-color: #241222 !important;
+	color: #F5F5F5;
+}
+footer{
+	padding-left: 20px;
+	font-size: 10pt;
+	color: #FAFAFA;
+}
+
+@media only screen and (min-width: 900px){
+body{
+	background: url(Imagenes/Fondos/EstatuaLibertad2.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding-top: 80px !important;
+	font-family: 'Lato', sans-serif;
+}
+
+.container{
+	background-color: #37DB6544;
+	padding-bottom:20px;	
+}
+.Header{
+	padding-top: 10px;
+	background-color: #078F2E88;	
+}
+.Header > * {
+	color: #F3F3F3;
+}
+.Cuerpo{
+	padding-top: 10px;
+}
+.Cuerpo > .col-6 > p{
+	color: #37DB65;
+	font-size: 30px;
+}
+.Cuerpo > .col-4 > form {
+	padding-top: 5px;
+	padding-bottom: 10px;
+	border-radius: 10px;
+	background-color: #37DB6544;
+}
+.Test{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.Test > .col-8 > .btnTest{
+	background-color: #241222 !important;
+	color: #F5F5F5;
+}
+footer{
+	padding-left: 20px;
+	font-size: 10pt;
+}
+
+
+}
+@media only screen and (min-width: 600px){
+body{
+	background: url(Imagenes/Fondos/EstatuaLibertad2.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding-top: 30px !important;
+	font-family: 'Lato', sans-serif;
+}
+	.container{
+	background-color: #37DB6544;
+	padding-bottom:20px;	
+}
+.Header{
+	padding-top: 10px;
+	background-color: #078F2E88;	
+}
+.Header > * {
+	color: #F3F3F3;
+}
+.Cuerpo{
+	padding-top: 10px;
+}
+.Cuerpo > .col-6 > p{
+	color: #37DB65;
+	font-size: 30px;
+}
+.Cuerpo > .col-4 > form {
+	padding-top: 5px;
+	padding-bottom: 10px;
+	border-radius: 10px;
+	background-color: #37DB6544;
+}
+.Test{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.Test > .col-8 > .btnTest{
+	background-color: #241222 !important;
+	color: #F5F5F5;
+}
+footer{
+	padding-left: 20px;
+	font-size: 10pt;
+	color: #FAFAFA;
+}
+
+}
+
+
+
+@media only screen and(max-width: 600px){
+	body{
+	background: #132557 !important;
+	padding-top: 10px !important;
+	font-family: 'Lato', sans-serif;
+}
+	.container{
+	background-color: #37DB6544;
+	padding-bottom:10px;	
+}
+.Header{
+	width: 200px;
+	padding-top: 5px;
+	background-color: #078F2E88;	
+}
+.Header > * {
+	color: #F3F3F3;
+}
+.Cuerpo{
+	padding-top: 10px;
+}
+.Cuerpo > .col-6 > p{
+	color: #37DB65;
+	font-size: 30px;
+}
+.Cuerpo > .col-4 > form {
+	padding-top: 5px;
+	padding-bottom: 10px;
+	border-radius: 10px;
+	background-color: #37DB6544;
+}
+.Test{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.Test > .col-8 > .btnTest{
+	background-color: #241222 !important;
+	color: #F5F5F5;
+}
+footer{
+	padding-left: 20px;
+	font-size: 10pt;
+	color: #FAFAFA;
+}
+
+}
